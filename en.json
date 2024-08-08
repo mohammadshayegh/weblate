@@ -1,0 +1,6 @@
+{
+  "test": "Android",
+  "mask": "mask",
+  "templates": "templates",
+  "repository": "repository"
+}
